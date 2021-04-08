@@ -1,4 +1,7 @@
 # Asteroids
+
+<img src="https://i.pinimg.com/originals/8b/14/5f/8b145fcf73279638b90a744fcd35c22a.png" width=400 height=auto align=right>
+
 University task. Game for pc.  
 Задание для университета, создать игру - астероиды.  
 Корабль, сбивающий астероиды, с управлением на wad и выстрелами по пробелу.  
